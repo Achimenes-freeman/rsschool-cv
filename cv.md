@@ -1,13 +1,13 @@
 # Vadim Shalar
 
-##Junior Front-end developer
+## Junior Front-end developer
 
-##My skills:
+## My skills:
 
-*HTML5
-*CSS3
-    +SCSS/SASS
-    +Less
-*Gulp
-*JS
-*React
+* HTML5
+* CSS3
+    + SCSS/SASS
+    + Less
+* Gulp
+* JS
+* React
